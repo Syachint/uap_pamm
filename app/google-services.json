@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908921122300",
+    "project_id": "uappam-84d46",
+    "storage_bucket": "uappam-84d46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908921122300:android:fce57fe52bbd56a90e1679",
+        "android_client_info": {
+          "package_name": "com.example.uap_pengembanganaplikasimobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxoLxIf23iUT_EZQofsbxs71IBJhrLGgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
